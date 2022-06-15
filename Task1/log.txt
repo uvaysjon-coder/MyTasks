@@ -1,0 +1,53 @@
+commit ff960c5d7ee18f7c334357040169a3d2d81abd9d
+Author: uvaysjon-coder <programming_hub@mail.ru>
+Date:   Tue Jun 14 22:10:54 2022 +0500
+
+    Create git_commands.md
+
+commit f6d9bdeed872d313c4ec63b876cb2c5093641728
+Merge: 6f6f417 00d07fa
+Author: uvaysjon-coder <72917607+uvaysjon-coder@users.noreply.github.com>
+Date:   Tue Jun 14 21:43:03 2022 +0500
+
+    Merge pull request #2 from uvaysjon-coder/dev
+    
+    Dev
+
+commit 00d07fa5a87f9a0286cad35ea567afd57994776f
+Merge: fe72310 5a97b08
+Author: uvaysjon-coder <72917607+uvaysjon-coder@users.noreply.github.com>
+Date:   Tue Jun 14 21:42:39 2022 +0500
+
+    Merge pull request #1 from uvaysjon-coder/%USERNAME-new_feature
+    
+    %username new feature
+
+commit 5a97b08a7cf9ea9deaa8fee67c494ec1f6439d5d
+Author: uvaysjon-coder <programming_hub@mail.ru>
+Date:   Tue Jun 14 21:38:32 2022 +0500
+
+    Create .gitignore
+
+commit 284acd8b18477f180108d27b893eade6d13a79bb
+Author: uvaysjon-coder <programming_hub@mail.ru>
+Date:   Tue Jun 14 21:34:03 2022 +0500
+
+    Create .gitignore
+
+commit b3d9440b2d8d0091f33057c31429bc25f2079b34
+Author: uvaysjon-coder <programming_hub@mail.ru>
+Date:   Tue Jun 14 21:29:30 2022 +0500
+
+    Create README.md
+
+commit fe72310e32a69a1271386ea53fe8333211f7d408
+Author: uvaysjon-coder <programming_hub@mail.ru>
+Date:   Tue Jun 14 21:21:22 2022 +0500
+
+    Create test_file.txt
+
+commit 6f6f417411226e6cb11f5b6d86af8f3b024e4e7c
+Author: uvaysjon-coder <programming_hub@mail.ru>
+Date:   Tue Jun 14 21:17:27 2022 +0500
+
+    Create Task1 folder

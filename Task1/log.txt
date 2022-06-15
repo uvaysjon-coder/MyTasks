@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 commit b390e9e2ee270e62fed82b0dc02ac893a52455e7
 Merge: 410ff5b 115733e
 Author: uvaysjon-coder <programming_hub@mail.ru>
@@ -16,6 +17,13 @@ Author: uvaysjon-coder <72917607+uvaysjon-coder@users.noreply.github.com>
 Date:   Wed Jun 15 12:10:10 2022 +0500
 
     Create my_actions.yml
+=======
+commit ff960c5d7ee18f7c334357040169a3d2d81abd9d
+Author: uvaysjon-coder <programming_hub@mail.ru>
+Date:   Tue Jun 14 22:10:54 2022 +0500
+
+    Create git_commands.md
+>>>>>>> 52d795d2cd10c66b9f5fb5539efc20f64b49af04
 
 commit f6d9bdeed872d313c4ec63b876cb2c5093641728
 Merge: 6f6f417 00d07fa

@@ -1,45 +1,66 @@
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           <command> [<args>]
+commit b390e9e2ee270e62fed82b0dc02ac893a52455e7
+Merge: 410ff5b 115733e
+Author: uvaysjon-coder <programming_hub@mail.ru>
+Date:   Wed Jun 15 12:22:43 2022 +0500
 
-These are common Git commands used in various situations:
+    Merge branch 'main' of github.com:uvaysjon-coder/MyTasks into main
 
-start a working area (see also: git help tutorial)
-   clone             Clone a repository into a new directory
-   init              Create an empty Git repository or reinitialize an existing one
+commit 410ff5b0de1ac00c5fce41bff3c77bdc23450d6b
+Author: uvaysjon-coder <programming_hub@mail.ru>
+Date:   Wed Jun 15 12:22:18 2022 +0500
 
-work on the current change (see also: git help everyday)
-   add               Add file contents to the index
-   mv                Move or rename a file, a directory, or a symlink
-   restore           Restore working tree files
-   rm                Remove files from the working tree and from the index
-   sparse-checkout   Initialize and modify the sparse-checkout
+    Create log.txt file
 
-examine the history and state (see also: git help revisions)
-   bisect            Use binary search to find the commit that introduced a bug
-   diff              Show changes between commits, commit and working tree, etc
-   grep              Print lines matching a pattern
-   log               Show commit logs
-   show              Show various types of objects
-   status            Show the working tree status
+commit 115733eaab1e369a3b82a2dd6c3074c7cd790af4
+Author: uvaysjon-coder <72917607+uvaysjon-coder@users.noreply.github.com>
+Date:   Wed Jun 15 12:10:10 2022 +0500
 
-grow, mark and tweak your common history
-   branch            List, create, or delete branches
-   commit            Record changes to the repository
-   merge             Join two or more development histories together
-   rebase            Reapply commits on top of another base tip
-   reset             Reset current HEAD to the specified state
-   switch            Switch branches
-   tag               Create, list, delete or verify a tag object signed with GPG
+    Create my_actions.yml
 
-collaborate (see also: git help workflows)
-   fetch             Download objects and refs from another repository
-   pull              Fetch from and integrate with another repository or a local branch
-   push              Update remote refs along with associated objects
+commit f6d9bdeed872d313c4ec63b876cb2c5093641728
+Merge: 6f6f417 00d07fa
+Author: uvaysjon-coder <72917607+uvaysjon-coder@users.noreply.github.com>
+Date:   Tue Jun 14 21:43:03 2022 +0500
 
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+    Merge pull request #2 from uvaysjon-coder/dev
+    
+    Dev
+
+commit 00d07fa5a87f9a0286cad35ea567afd57994776f
+Merge: fe72310 5a97b08
+Author: uvaysjon-coder <72917607+uvaysjon-coder@users.noreply.github.com>
+Date:   Tue Jun 14 21:42:39 2022 +0500
+
+    Merge pull request #1 from uvaysjon-coder/%USERNAME-new_feature
+    
+    %username new feature
+
+commit 5a97b08a7cf9ea9deaa8fee67c494ec1f6439d5d
+Author: uvaysjon-coder <programming_hub@mail.ru>
+Date:   Tue Jun 14 21:38:32 2022 +0500
+
+    Create .gitignore
+
+commit 284acd8b18477f180108d27b893eade6d13a79bb
+Author: uvaysjon-coder <programming_hub@mail.ru>
+Date:   Tue Jun 14 21:34:03 2022 +0500
+
+    Create .gitignore
+
+commit b3d9440b2d8d0091f33057c31429bc25f2079b34
+Author: uvaysjon-coder <programming_hub@mail.ru>
+Date:   Tue Jun 14 21:29:30 2022 +0500
+
+    Create README.md
+
+commit fe72310e32a69a1271386ea53fe8333211f7d408
+Author: uvaysjon-coder <programming_hub@mail.ru>
+Date:   Tue Jun 14 21:21:22 2022 +0500
+
+    Create test_file.txt
+
+commit 6f6f417411226e6cb11f5b6d86af8f3b024e4e7c
+Author: uvaysjon-coder <programming_hub@mail.ru>
+Date:   Tue Jun 14 21:17:27 2022 +0500
+
+    Create Task1 folder

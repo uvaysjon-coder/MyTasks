@@ -1,3 +1,6 @@
+## Status of Last Deployment: <br>
+<img src = "https://github.com/uvaysjon-coder/MyTasks/actions/workflows/My_GitHubActions/badge.svg"> <br>
+
 # MyTasks
 
 #### 1.Create a Github account(if you don’t have one).<br>

@@ -6,7 +6,7 @@
 name: My_GitHubActions
 env:
   DEPLOY_VER : "${{ github.sha }}"
-  YEAR       : "2022"
+  YEAR       : "2021"
 
 # Controls when the workflow will run
 on:

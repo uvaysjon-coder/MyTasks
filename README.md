@@ -1,5 +1,5 @@
 ## Status of Last Deployment: <br>
-<img src="https://github.com/Uvaysjon-coder/MyTasks/actions/workflows/My_GitHubActions/badge.svg"><br>
+<img src="https://github.com/Uvaysjon-coder/MyTasks/actions/workflows/My_GitHubActions/badge.svg?branch=main"><br>
 
 # MyTasks
 

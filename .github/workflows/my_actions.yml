@@ -27,7 +27,7 @@ jobs:
       - name: Print the list of files/directories in your github repository.
         run : ls -a
       - name: Print content of your log.txt file.
-        run : cat log.txt
+        run : cat /Task1/log.txt
       - name: Print “Hello from “your DEPLOY_VER variable’s content” commit”
         run : echo "Hello from ${{env.DEPLOY_VER}} commit"
         
